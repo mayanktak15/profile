@@ -23,10 +23,10 @@
         </kbd>
     </p>
     <a href="https://mayanktakpc.github.io/projects" target="_blank" title="Snake eats commits!">
-        <img width="700" src="https://raw.githubusercontent.com/mayanktakpc/mayanktakpc/master/assets/gen/snake.svg" />
+        <img width="700" src="https://github.com/mayanktak15/profile/blob/master/assets/gen/snake.svg" />
     </a>
     <a href="https://mayanktakpc.github.io/projects" target="_blank" title="GitHub metrics!">
-        <img width="500" src="https://raw.githubusercontent.com/mayanktakpc/mayanktakpc/master/assets/gen/metrics.svg" />
+        <img width="500" src="https://github.com/mayanktak15/profile/blob/master/assets/gen/metrics.svg" />
     </a>
     <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
 </div>
