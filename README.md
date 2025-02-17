@@ -30,4 +30,3 @@
     </a>
     <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
 </div>
-rmdir .git /s /q
